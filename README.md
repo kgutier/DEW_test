@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgutier/DEW_test/master?labpath=https%3A%2F%2Fgithub.com%2Fkgutier%2FDEW_test%2Fblob%2Fmaster%2FDEW_flow_diversion_problem.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgutier/DEW_test/58bb6d7466780f8b27713febcf13790f4e5b8f29?urlpath=lab%2Ftree%2FDEW_flow_diversion_problem.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/kgutier/DEW_test/master?labpath=https%3A%2F%2Fgithub.com%2Fkgutier%2FDEW_test%2Fblob%2Fmaster%2FDEW_flow_diversion_problem.ipynb
+https://mybinder.org/v2/gh/kgutier/DEW_test/58bb6d7466780f8b27713febcf13790f4e5b8f29?urlpath=lab%2Ftree%2FDEW_flow_diversion_problem.ipynb
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
